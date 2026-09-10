@@ -1,0 +1,7 @@
+print("=== Jadwal Kuliah Adib Ridho Putra IF Kelas B ===")
+print("Senin  : Aljabar Linear, Matematika Diskrit, Bahasa Inggris")
+print("Selasa : Kalkulus")
+print("Rabu   : Pendidikan Agama, Algoritma dan Pemrograman")
+print("Kamis  : Praktikum Algoritma dan Pemrograman")
+print("Jumat  : Organisasi dan Arsitektur Komputer")
+print("=================================================")
