@@ -34,4 +34,4 @@ print("not A2 =", hasil_2018)
 # XOR: bernilai True jika kedua nilai berbeda
 hasil_2018 = a1_2018 != a2_2018
 print("\nDsijungsi Eksklusif (XOR)")
-print("A1 XOR A2 =")
+print("A1 XOR A2 =", hasil_2018)
