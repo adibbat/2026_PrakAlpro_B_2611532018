@@ -19,7 +19,7 @@ print("Hasil =", hasil_2018)
 hasil_2018 = angka1_2018
 hasil_2018 += angka2_2018
 print("\nAssignment penambahan (+=)")
-print("Hasil =")
+print("Hasil =", hasil_2018)
 
 # Assignment pengurangan
 hasil_2018 = angka1_2018
