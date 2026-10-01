@@ -7,4 +7,4 @@ batas_2018 = int(input("Masukkan nilai batas: "))
 for i_2018 in range(batas_2018 + 1):
     for j_2018 in range(batas_2018+1):
         print(i_2018+j_2018, end=" ")
-print()  
+    print()  

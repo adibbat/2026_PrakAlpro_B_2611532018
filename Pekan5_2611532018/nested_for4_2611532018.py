@@ -17,14 +17,14 @@ else:
 
         for j_2018 in range(1, lebar_2018 + 1):
 
-        #Baris atas dan bawah
+            #Baris atas dan bawah
             if i_2018 == 1 or i_2018 == tinggi_2018:
                 if j_2018 == 1 or j_2018 == lebar_2018:
                     print("#", end="")
                 else:
                     print("=", end="")
 
-        #Baris isi
+            #Baris isi
             else:
                 if j_2018 == 1 or j_2018 == lebar_2018:
                     print("|", end="")
@@ -42,12 +42,12 @@ else:
                     else:
                         print(" ", end="")
 
-            print()
+        print()
 
-            #Logika asli java
-            a_2018 -= 2
+        #Logika asli java
+        a_2018 -= 2
 
-            if a_2018 <= 0:
-                c_2018 = (-a_2018) + 2
-            else:
-                c_2018 = a_2018
+        if a_2018 <= 0:
+            c_2018 = (-a_2018) + 2
+        else:
+            c_2018 = a_2018

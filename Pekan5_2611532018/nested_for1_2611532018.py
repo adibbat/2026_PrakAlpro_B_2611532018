@@ -6,5 +6,5 @@
 batas_2018 = int(input("Masukkan nilai batas: "))
 for line_2018 in range(1, batas_2018 + 1):
     for j_2018 in range(1, (-1 * line_2018 + batas_2018) + 1):
-        print(" . ", end="")
-print()  
+        print(".", end="")
+    print(line_2018)  
