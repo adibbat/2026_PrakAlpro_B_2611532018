@@ -1,0 +1,24 @@
+correct_pin = "1234"
+MAX_ATTEMPTS = 3
+pin = input("Enter PIN: ")
+
+if pin == correct_pin:
+    print("Access granted")
+else:
+    attempt = 1
+    while pin != correct_pin and attempt < MAX_ATTEMPTS:
+         print("Incorrect PIN.")
+         pin = input("Enter PIN: ")
+         attempt += 1
+    print("Account locked")
+    
+
+
+
+
+
+
+
+
+
+
