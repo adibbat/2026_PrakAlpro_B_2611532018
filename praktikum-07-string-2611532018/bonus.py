@@ -2,7 +2,6 @@
 # NIM: 2611532018
 # Bonus
 
-
 kalimat = input("Masukkan kalimat: ")
 clean = kalimat.lower().replace(" ", "")
 if clean == clean[::-1]:
