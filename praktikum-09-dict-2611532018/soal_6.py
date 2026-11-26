@@ -1,3 +1,4 @@
+#bonussssss
 schedule = {
     "Monday": ["Algorithms", "Calculus"],
     "Tuesday": ["English"],
